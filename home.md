@@ -11,8 +11,8 @@ This is where you will find resources to help you secure your next internship or
 
 | Industry | Repository Link |
 | --- | --- |
-| Consulting | [Link]() |
-| Finance | [Link]() |
+| Consulting | [Link](https://github.com/cynthiagong/VPPA/tree/main/Consulting) |
+| Finance | [Link](https://github.com/cynthiagong/VPPA/tree/main/Finance) |
 | PM | [Link]() |
 
 ## **Additional Resources**
