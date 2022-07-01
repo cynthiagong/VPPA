@@ -1,7 +1,6 @@
 # **SEP PROFESSIONAL HUB**
 
-## Welcome to the home of all things professional at SEP! 
-<br>
+**Welcome to the home of all things professional at SEP!**
 
 This is where you will find resources to help you secure your next internship or full time job.
 
@@ -13,7 +12,7 @@ This is where you will find resources to help you secure your next internship or
 | --- | --- |
 | Consulting | [Link](https://github.com/cynthiagong/VPPA/tree/main/Consulting) |
 | Finance | [Link](https://github.com/cynthiagong/VPPA/tree/main/Finance) |
-| PM | [Link]() |
+| PM | [Link](pm.md) |
 
 ## **Additional Resources**
 
