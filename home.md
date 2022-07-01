@@ -4,7 +4,6 @@
 
 This is where you will find resources to help you secure your next internship or full time job.
 
-<br>
 
 ## **Interview Prep**
 
