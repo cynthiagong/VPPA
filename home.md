@@ -17,9 +17,12 @@ This is where you will find resources to help you secure your next internship or
 
 ## **Additional Resources**
 
+**Note**: To download files, click on the download button -- it is highlighted in the image below.
+![download](downloadfiles.jpg)
+
 | Resource | Link |
 | --- | --- |
-| Resume Templates | [Link]() |
+| Resume Templates | [Link](https://github.com/cynthiagong/VPPA/tree/main/Resume%20Templates) |
 | Cover Letter Templates | Coming Soon! |
 | Cold Email Guide | Coming Soon! |
 
