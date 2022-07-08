@@ -23,6 +23,7 @@ This is where you will find resources to help you secure your next internship or
 | Resume Templates | [Link](https://github.com/cynthiagong/VPPA/tree/main/Resume%20Templates) |
 | Cover Letter Templates | Coming Soon! |
 | Cold Email Guide | Coming Soon! |
+| International Student Guide | [Link](international.md)
 
 ## **Online Subscriptions**
 We are excited to launch online resources for all of SEP members! This is still in the works, so please reach out to us with requests for any additional subscriptions.
