@@ -22,7 +22,7 @@ This is where you will find resources to help you secure your next internship or
 | --- | --- |
 | Resume Templates | [Link](https://github.com/cynthiagong/VPPA/tree/main/Resume%20Templates) |
 | Cover Letter Templates | Coming Soon! |
-| Cold Email Guide | Coming Soon! |
+| Cold Email Guide | [Link](https://github.com/cynthiagong/VPPA/tree/main/Cold%20Emailing) |
 | International Student Guide | [Link](international.md)
 
 ## **Online Subscriptions**
