@@ -1,4 +1,4 @@
-Cover letters are meant to be a tool to better elaborate upon your interest in a position in the ways a resume cannot. However, cover letters should always be **short, sweet, and succint**.
+Cover letters are meant to be a tool to better elaborate upon your interest in a position in the ways a resume cannot. However, cover letters should always be **short, sweet, and succicnt**.
 
 <br>
 
