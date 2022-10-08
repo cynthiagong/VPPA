@@ -28,10 +28,10 @@ This is where you will find resources to help you secure your next internship or
 ## **Online Subscriptions**
 We are excited to launch online resources for all of SEP members! This is still in the works, so please reach out to us with requests for any additional subscriptions.
 
-| **Website** | **Link** | **Username** |
+| **Website** | **Link** | **Username** | **Not Password** |
 |---|---|---|
-| LeetCode Premium | [Link](https://leetcode.com/accounts/login/?next=/subscribe/) | TBD |
-| Coursera | [Link](https://www.coursera.org/?authMode=login) | TBD |
+| LeetCode Premium | [Link](https://leetcode.com/accounts/login/?next=/subscribe/) | sepatucla | L3etcod3grind! |
+| Coursera | [Link](https://www.coursera.org/?authMode=login) | TBD | TBD |
 
 <br>
 <br>
